@@ -1,0 +1,126 @@
+assists,games,goals,minutes,age,current club,current league,foot,height,name,nationality,position
+15,39,12,2774,22,Manchester City,Premier League,left,184,Leroy Sané,Germany  France,W
+10,36,20,2774,23,Manchester City,Premier League,right,170,Raheem Sterling,England  Jamaica,W
+11,44,7,2329,23,Manchester City,Premier League,left,173,Bernardo Silva,Portugal,W
+7,37,30,2895,29,Manchester City,Premier League,right,173,Sergio Agüero,Argentina  Spain,CF
+4,31,11,1766,20,Manchester City,Premier League,right,175,Gabriel Jesus,Brazil,CF
+6,31,9,2464,29,Manchester United,Premier League,right,169,Alexis Sánchez,Chile,W
+10,38,11,1979,22,Manchester United,Premier League,right,183,Anthony Martial,France  Guadeloupe,W
+5,37,13,1903,25,Manchester United,Premier League,right,174,Jesse Lingard,England,W
+8,42,23,3436,24,Manchester United,Premier League,left,191,Romelu Lukaku,Belgium  DR Congo,CF
+8,40,12,2128,20,Manchester United,Premier League,right,185,Marcus Rashford,England,CF
+0,7,1,187,36,Manchester United,Premier League,both,195,Zlatan Ibrahimovic,Sweden  Bosnia-Herzegovina,CF
+9,43,18,2766,25,Tottenham Hotspur,Premier League,both,184,Heung-Min Son,"Korea, South",W
+3,11,2,264,25,Tottenham Hotspur,Premier League,right,174,Lucas,Brazil,W
+5,24,1,927,26,Tottenham Hotspur,Premier League,left,184,Érik Lamela,Argentina  Spain,W
+4,39,35,3222,24,Tottenham Hotspur,Premier League,right,188,Harry Kane,England,CF
+1,28,5,958,33,Tottenham Hotspur,Premier League,right,193,Fernando Llorente,Spain,CF
+11,40,15,2857,27,Chelsea FC,Premier League,both,173,Eden Hazard,Belgium,W
+5,38,6,2252,30,Chelsea FC,Premier League,both,167,Pedro,Spain,W
+10,44,13,2421,29,Chelsea FC,Premier League,right,175,Willian,Brazil,W
+5,37,12,2249,25,Chelsea FC,Premier League,right,189,Álvaro Morata,Spain,CF
+3,32,8,1508,31,Chelsea FC,Premier League,left,192,Olivier Giroud,France,CF
+7,32,14,2501,25,Liverpool FC,Premier League,right,175,Sadio Mané,Senegal,W
+4,16,4,1365,18,Liverpool FC,Premier League,right,174,Ben Woodburn,Wales  England,W
+11,40,32,3165,25,Liverpool FC,Premier League,left,175,Mohamed Salah,Egypt,W
+2,16,1,799,25,Liverpool FC,Premier League,right,178,Danny Ings,England,CF
+1,23,0,662,20,Liverpool FC,Premier League,right,186,Dominic Solanke,England  Nigeria,CF
+5,30,2,2020,21,Arsenal FC,Premier League,right,183,Alex Iwobi,Nigeria  England,W
+4,30,24,2707,28,Arsenal FC,Premier League,right,187,Pierre-Emerick Aubameyang,Gabon  France,CF
+4,29,9,2037,26,Arsenal FC,Premier League,right,175,Alexandre Lacazette,France  Guadeloupe,CF
+1,30,5,1604,27,Arsenal FC,Premier League,right,183,Danny Welbeck,England  Ghana,CF
+0,11,0,545,28,Everton FC,Premier League,both,185,Yannick Bolasie,DR Congo  England,W
+6,23,6,1500,28,Everton FC,Premier League,both,175,Theo Walcott,England,W
+3,30,16,2081,26,Everton FC,Premier League,right,183,Cenk Tosun,Turkey  Germany,CF
+6,40,8,2286,20,Everton FC,Premier League,right,187,Dominic Calvert-Lewin,England,CF
+4,22,11,1145,27,Everton FC,Premier League,right,182,Oumar Niasse,Senegal,CF
+3,28,0,1754,24,Southampton FC,Premier League,right,173,Nathan Redmond,England  Ireland,W
+3,31,4,2390,29,Southampton FC,Premier League,left,181,Dusan Tadic,Serbia,W
+3,10,0,548,20,Southampton FC,Premier League,left,168,Josh Sims,England,W
+0,28,4,1040,26,Southampton FC,Premier League,left,181,Manolo Gabbiadini,Italy,CF
+0,17,6,675,28,Southampton FC,Premier League,right,188,Charlie Austin,England,CF
+2,25,1,1383,31,Southampton FC,Premier League,both,180,Shane Long,Ireland,CF
+4,32,8,1330,26,Southampton FC,Premier League,right,191,Guido Carrillo,Argentina  Italy,CF
+5,27,7,1773,28,West Ham United,Premier League,both,193,Marko Arnautovic,Austria  Serbia,W
+1,21,3,1420,27,West Ham United,Premier League,right,180,Michail Antonio,England  Jamaica,W
+1,29,7,1727,29,West Ham United,Premier League,right,175,Chicharito,Mexico,CF
+1,14,2,812,29,West Ham United,Premier League,left,193,Andy Carroll,England,CF
+2,31,10,2390,25,West Ham United,Premier League,right,183,Jordan Hugill,England,CF
+2,35,4,1993,21,Leicester City,Premier League,right,179,Demarai Gray,England  Jamaica,W
+11,32,11,2504,27,Leicester City,Premier League,left,179,Riyad Mahrez,Algeria  France,W
+1,33,16,2703,31,Leicester City,Premier League,right,179,Jamie Vardy,England,CF
+3,23,7,1016,21,Leicester City,Premier League,left,184,Kelechi Iheanacho,Nigeria,CF
+3,28,7,1392,31,Leicester City,Premier League,both,174,Shinji Okazaki,Japan,CF
+1,29,5,2157,22,Leicester City,Premier League,left,175,Fousseni Diabaté,Mali  France,CF
+0,19,6,718,29,Crystal Palace,Premier League,left,183,Bakary Sako,Mali  France,W
+3,21,4,1831,25,Crystal Palace,Premier League,right,180,Wilfried Zaha,Cote d'Ivoire  England,W
+7,31,2,2588,26,Crystal Palace,Premier League,left,177,Andros Townsend,England,W
+0,8,0,282,29,Crystal Palace,Premier League,right,180,Chung-Yong Lee,"Korea, South",W
+6,24,2,1974,27,Crystal Palace,Premier League,right,190,Christian Benteke,Belgium  DR Congo,CF
+9,30,15,2170,22,Crystal Palace,Premier League,left,194,Alexander Sörloth,Norway,CF
+5,30,4,2259,28,Stoke City,Premier League,right,191,Eric Maxim Choupo-Moting,Cameroon  Germany,W
+2,12,1,631,25,Stoke City,Premier League,right,178,Jesé,Spain,W
+1,21,4,1248,21,Stoke City,Premier League,right,183,Ramadan Sobhi,Egypt,W
+6,29,7,2284,26,Stoke City,Premier League,left,169,Xherdan Shaqiri,Switzerland  Kosovo,W
+1,17,0,755,24,Stoke City,Premier League,right,179,Saido Berahino,England  Burundi,CF
+2,30,5,2118,30,Stoke City,Premier League,right,185,Mame Diouf,Senegal,CF
+2,25,4,1292,37,Stoke City,Premier League,right,201,Peter Crouch,England  Ireland,CF
+5,33,5,2692,20,Watford FC,Premier League,right,179,Richarlison,Brazil,W
+4,21,3,1207,23,Watford FC,Premier League,right,177,Gerard Deulofeu,Spain,W
+2,28,2,1650,26,Watford FC,Premier League,right,181,André Carrillo,Peru,W
+4,21,3,1396,20,Watford FC,Premier League,left,187,Dodi Lukebakio,Belgium  DR Congo,W
+3,28,4,1369,26,Watford FC,Premier League,right,178,Andre Gray,England  Jamaica,CF
+3,23,6,1483,29,Watford FC,Premier League,right,184,Troy Deeney,England  Jamaica,CF
+1,12,1,369,28,Watford FC,Premier League,right,186,Stefano Okaka,Italy  Nigeria,CF
+0,4,0,43,21,Watford FC,Premier League,right,181,Jerome Sinclair,England  Jamaica,CF
+0,5,1,311,28,West Bromwich Albion,Premier League,right,187,Nacer Chadli,Belgium  Morocco,W
+0,28,1,1157,28,West Bromwich Albion,Premier League,left,180,James McClean,Ireland  Northern Ireland,W
+0,20,2,1003,28,West Bromwich Albion,Premier League,left,183,Hal Robson-Kanu,Wales  England,W
+2,19,1,563,20,West Bromwich Albion,Premier League,right,188,Oliver Burke,Scotland,W
+3,27,2,1860,26,West Bromwich Albion,Premier League,right,183,Matt Phillips,Scotland  England,W
+1,17,0,841,18,West Bromwich Albion,Premier League,right,182,Jonathan Leko,England  DR Congo,W
+3,17,3,592,28,West Bromwich Albion,Premier League,left,180,Daniel Sturridge,England  Jamaica,CF
+2,32,8,2386,28,West Bromwich Albion,Premier League,right,186,José Salomón Rondón,Venezuela,CF
+2,34,8,2555,28,West Bromwich Albion,Premier League,right,185,Jay Rodríguez,England  Spain,CF
+4,28,6,1646,28,Swansea City,Premier League,left,176,André Ayew,Ghana  France,W
+1,18,1,788,33,Swansea City,Premier League,right,170,Wayne Routledge,England  Jamaica,W
+3,18,9,1123,23,Swansea City,Premier League,right,178,Kenji Gorré,Curacao  Netherlands,W
+4,22,3,1035,27,Swansea City,Premier League,right,175,Luciano Narsingh,Netherlands  Suriname,W
+0,24,3,1368,30,Swansea City,Premier League,right,165,Nathan Dyer,England  Jamaica,W
+0,20,4,1091,29,Swansea City,Premier League,right,181,Wilfried Bony,Cote d'Ivoire,CF
+5,31,7,1884,20,Swansea City,Premier League,right,190,Tammy Abraham,England  Nigeria,CF
+3,38,10,2738,26,Swansea City,Premier League,right,182,Jordan Ayew,Ghana  France,CF
+2,27,2,1740,26,Newcastle United,Premier League,left,165,Christian Atsu,Ghana,W
+1,22,1,1158,23,Newcastle United,Premier League,right,173,Jacob Murphy,England,W
+2,17,5,645,29,Newcastle United,Premier League,right,188,Islam Slimani,Algeria,CF
+4,30,5,1659,27,Newcastle United,Premier League,right,177,Dwight Gayle,England  Jamaica,CF
+1,27,4,1596,27,Newcastle United,Premier League,right,192,Joselu,Spain,CF
+0,10,1,194,23,Burnley FC,Premier League,right,174,Georges-Kevin N'Koudou,France  Cameroon,W
+3,25,0,1453,30,Burnley FC,Premier League,right,165,Aaron Lennon,England  Ireland,W
+6,32,2,2518,27,Burnley FC,Premier League,left,186,Johann Berg Gudmundsson,Iceland,W
+0,5,0,94,34,Burnley FC,Premier League,right,183,Jonathan Walters,Ireland  England,W
+2,22,9,1468,26,Burnley FC,Premier League,right,191,Chris Wood,New Zealand,CF
+2,24,3,947,28,Burnley FC,Premier League,right,186,Sam Vokes,Wales  England,CF
+0,7,0,52,27,Burnley FC,Premier League,right,170,Nahki Wells,Bermuda,CF
+3,30,4,1657,25,Brighton & Hove Albion,Premier League,right,171,José Izquierdo,Colombia,W
+0,6,0,511,26,Brighton & Hove Albion,Premier League,right,176,Jirí Skalák,Czech Republic,W
+2,31,3,2173,26,Brighton & Hove Albion,Premier League,left,172,Anthony Knockaert,France  Belgium,W
+7,21,11,1601,24,Brighton & Hove Albion,Premier League,right,185,Jürgen Locadia,Netherlands  Curacao,CF
+2,13,1,523,31,Brighton & Hove Albion,Premier League,right,188,Leonardo Ulloa,Argentina  Spain,CF
+1,7,1,434,28,Brighton & Hove Albion,Premier League,right,170,Sam Baldock,England,CF
+0,30,13,1758,34,Brighton & Hove Albion,Premier League,right,186,Glenn Murray,England,CF
+2,19,2,1076,30,Brighton & Hove Albion,Premier League,right,182,Tomer Hemed,Israel  Poland,CF
+3,25,5,1913,24,AFC Bournemouth,Premier League,right,163,Ryan Fraser,Scotland,W
+2,18,4,1221,28,AFC Bournemouth,Premier League,right,183,Junior Stanislas,England  St. Lucia,W
+2,22,1,1167,30,AFC Bournemouth,Premier League,right,180,Marc Pugh,England,W
+8,32,1,1890,22,AFC Bournemouth,Premier League,right,176,Jordon Ibe,England  Nigeria,W
+3,23,8,1608,26,AFC Bournemouth,Premier League,right,180,Callum Wilson,England  Ireland,CF
+1,22,2,808,22,AFC Bournemouth,Premier League,right,184,Lys Mousset,France,CF
+0,19,3,932,35,AFC Bournemouth,Premier League,right,171,Jermain Defoe,England  St. Lucia,CF
+0,33,2,2504,26,Huddersfield Town,Premier League,left,178,Tom Ince,England  Barbados,W
+1,31,5,2073,26,Huddersfield Town,Premier League,right,181,Rajiv van La Parra,Netherlands  Suriname,W
+1,20,0,1126,27,Huddersfield Town,Premier League,right,176,Sean Scannell,Ireland  England,W
+2,24,8,1670,23,Huddersfield Town,Premier League,right,190,Steve Mounié,Benin  France,CF
+2,28,5,1715,29,Huddersfield Town,Premier League,right,191,Laurent Depoitre,Belgium,CF
+1,19,1,1369,25,Huddersfield Town,Premier League,right,178,Elias Kachunga,DR Congo  Germany,CF
+4,26,0,1434,26,Huddersfield Town,Premier League,,191,Collin Quaner,Germany  Ghana,CF
